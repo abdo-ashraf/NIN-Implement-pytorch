@@ -1,4 +1,4 @@
-# NIN-Model
+# Network In Network paper
 ```bibtex
 @article{lin2013network,
   title={Network in network},
